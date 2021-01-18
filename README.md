@@ -30,7 +30,7 @@ I think it's okay to be painful if it makes me curious.
 <a href="https://dev.to/abhilashtuofficial" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.io/abhilash_tu" target="_blank">
+<a href="https://codepen.io/abhilash-tu" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Abhilash_TU" target="_blank">
